@@ -17,6 +17,7 @@ Finally under lang folder you can create files that represents your translation 
 
 |File Name|Role|
 |---------|----|
+|biblioteca.json| General Info |
 |description.md| Description |
 |input.md| Input |
 |output.md| Output |
