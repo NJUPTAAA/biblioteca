@@ -22,3 +22,7 @@ Finally under lang folder you can create files that represents your translation 
 |input.md| Input |
 |output.md| Output |
 |note.md| Note |
+
+### biblioteca.json Supported Fields
+
+Currently `biblioteca.json` only supports `title` field, representing the problem title.
