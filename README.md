@@ -1,5 +1,5 @@
-# Babel La Biblioteca
-*Babel La Biblioteca* (**BLB**) is a public-domained description dialects library for Online Judge problems powered by NOJ Babel.
+# Biblioteca La Babel
+*Biblioteca La Babel* (**BLB**) is a public-domained description dialects library for Online Judge problems powered by NOJ Babel.
 
 ## Structure
 **BLB** uses hierarchical model for problems, each online judge have there own BABEL designations, thus have their own directory for problems.
